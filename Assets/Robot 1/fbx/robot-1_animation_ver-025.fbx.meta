@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 6d8bab147529c854a8e4ff6b5ae68c2f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm.L
+    100002: arm.R
+    100004: Arm_robo-1
+    100006: bashna
+    100008: body
+    100010: Empty
+    100012: finnger-1.L
+    100014: finnger-1.R
+    100016: finnger-2.L
+    100018: finnger-2.R
+    100020: foot.L
+    100022: foot.R
+    100024: gun-base.L
+    100026: gun-base.R
+    100028: gun.L
+    100030: gun.R
+    100032: IK-CONTROL-leg.L
+    100034: IK-CONTROL-leg.R
+    100036: koleno-CONTROL-leg.L
+    100038: koleno-CONTROL-leg.R
+    100040: leg-1.L
+    100042: leg-1.L 1
+    100044: leg-1.R
+    100046: leg-1.R 1
+    100048: leg-2.L
+    100050: leg-2.L 1
+    100052: leg-2.R
+    100054: leg-2.R 1
+    100056: leg-3.L
+    100058: leg-3.L 1
+    100060: leg-3.R
+    100062: leg-3.R 1
+    100064: pal_bake.L
+    100066: pal_bake.R
+    100068: pal_top.L
+    100070: pal_top.R
+    100072: pelvis
+    100074: //RootNode
+    100076: root
+    100078: stup.L
+    100080: stup.R
+    100082: stvol.L
+    100084: stvol.R
+    100086: taz
+    400000: arm.L
+    400002: arm.R
+    400004: Arm_robo-1
+    400006: bashna
+    400008: body
+    400010: Empty
+    400012: finnger-1.L
+    400014: finnger-1.R
+    400016: finnger-2.L
+    400018: finnger-2.R
+    400020: foot.L
+    400022: foot.R
+    400024: gun-base.L
+    400026: gun-base.R
+    400028: gun.L
+    400030: gun.R
+    400032: IK-CONTROL-leg.L
+    400034: IK-CONTROL-leg.R
+    400036: koleno-CONTROL-leg.L
+    400038: koleno-CONTROL-leg.R
+    400040: leg-1.L
+    400042: leg-1.L 1
+    400044: leg-1.R
+    400046: leg-1.R 1
+    400048: leg-2.L
+    400050: leg-2.L 1
+    400052: leg-2.R
+    400054: leg-2.R 1
+    400056: leg-3.L
+    400058: leg-3.L 1
+    400060: leg-3.R
+    400062: leg-3.R 1
+    400064: pal_bake.L
+    400066: pal_bake.R
+    400068: pal_top.L
+    400070: pal_top.R
+    400072: pelvis
+    400074: //RootNode
+    400076: root
+    400078: stup.L
+    400080: stup.R
+    400082: stvol.L
+    400084: stvol.R
+    400086: taz
+    2100000: robot_1
+    2300000: body
+    2300002: finnger-1.L
+    2300004: finnger-1.R
+    2300006: finnger-2.L
+    2300008: finnger-2.R
+    2300010: foot.L
+    2300012: foot.R
+    2300014: gun-base.L
+    2300016: gun-base.R
+    2300018: gun.L
+    2300020: gun.R
+    2300022: leg-1.L 1
+    2300024: leg-1.R 1
+    2300026: leg-2.L 1
+    2300028: leg-2.R 1
+    2300030: leg-3.L 1
+    2300032: leg-3.R 1
+    2300034: pelvis
+    3300000: body
+    3300002: finnger-1.L
+    3300004: finnger-1.R
+    3300006: finnger-2.L
+    3300008: finnger-2.R
+    3300010: foot.L
+    3300012: foot.R
+    3300014: gun-base.L
+    3300016: gun-base.R
+    3300018: gun.L
+    3300020: gun.R
+    3300022: leg-1.L 1
+    3300024: leg-1.R 1
+    3300026: leg-2.L 1
+    3300028: leg-2.R 1
+    3300030: leg-3.L 1
+    3300032: leg-3.R 1
+    3300034: pelvis
+    4300000: pelvis
+    4300002: leg-1.L
+    4300004: leg-2.L
+    4300006: leg-3.L
+    4300008: body
+    4300010: gun-base.L
+    4300012: gun.L
+    4300014: gun-base.R
+    4300016: gun.R
+    4300018: leg-1.R
+    4300020: leg-2.R
+    4300022: leg-3.R
+    4300024: foot.L
+    4300026: finnger-1.L
+    4300028: finnger-2.L
+    4300030: foot.R
+    4300032: finnger-1.R
+    4300034: finnger-2.R
+    7400000: IDLE-1_NEW
+    7400002: IDLE-2_NEW
+    7400004: activation_NEW
+    7400006: deactivation_NEW
+    7400008: attack-1_NEW
+    7400010: attack-2_NEW
+    7400012: damage-1_NEW
+    7400014: damage-2_NEW
+    7400016: damage-3_NEW
+    7400018: dead-1_NEW
+    7400020: dead-2_NEW
+    7400022: walk-1_NEW
+    7400024: walk-2_NEW
+    7400026: run_NEW
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
